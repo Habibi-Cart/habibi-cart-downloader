@@ -1,4 +1,6 @@
-# Habibi J1Gs for Windows and Mac
+# Habibi Cart for Windows and Mac
+
+Habibi Cart keeps the **Habibi J1Gs** installer and operating-system application names so existing updates and saved data remain compatible.
 
 **[Download the latest version](https://github.com/Habibi-Cart/habibi-j1gs-downloader/releases/latest)**
 
