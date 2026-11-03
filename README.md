@@ -7,7 +7,9 @@ Habibi Cart keeps the **Habibi J1Gs** installer and operating-system application
 Open **Assets** on the download page and choose the installer for your computer:
 
 - **Windows 10/11 (64-bit):** `Habibi-J1Gs-Setup-<version>.exe`
-- **Mac (Apple Silicon or Intel):** `Habibi-J1Gs-<version>-mac-universal.dmg`
+- **Mac (Apple Silicon or Intel):** [Latest Mac release: v2.3.1](https://github.com/Habibi-Cart/habibi-j1gs-downloader/releases/tag/v2.3.1). Download `Habibi-J1Gs-2.3.1-mac-universal.dmg` from that release.
+
+The latest release may be Windows-only. v2.3.2 updates Windows; the Mac build remains v2.3.1.
 
 ## Windows install and updates
 
